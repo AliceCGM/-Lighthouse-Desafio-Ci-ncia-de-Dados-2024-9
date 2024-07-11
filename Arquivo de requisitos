@@ -1,0 +1,7 @@
+pandas
+joblib
+
+RStudio
+library(tidyverse)
+library(psych)
+library(MOTE)
